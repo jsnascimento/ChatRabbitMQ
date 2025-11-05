@@ -1,5 +1,4 @@
-// O package deve corresponder à estrutura de pastas do seu projeto
-// package br.ufs.dcomp.ChatRabbitMQ; 
+package br.ufs.dcomp.ChatRabbitMQ; 
 
 import com.rabbitmq.client.*;
 import org.json.JSONObject; // Importa a biblioteca JSON
